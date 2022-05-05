@@ -1,2 +1,2 @@
-# 2022-Vehicle-Project
+# 2022 Vehicle ML Project
 The purpose of this project is to determine whether key environmental data regarding vehicles can be predicted using readily available consumer information. Specifically, this report aims to use Machine Learning (ML) techniques to make predictions regarding a vehicles combined fuel consumption and CO2 emissions using regression techniques. Both Multiple Linear Regression (MLR) and Artificial Neural Networks (ANNs) will be tested to determine which ML technique best suits the data used when predicting the vehicle statistics pertaining to environmental data..
