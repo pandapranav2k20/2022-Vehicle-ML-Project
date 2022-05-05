@@ -1,0 +1,715 @@
+ILX,0
+MDX SH-AWD,1
+RDX SH-AWD,2
+RDX SH-AWD A-SPEC,3
+TLX SH-AWD,4
+TLX SH-AWD A-SPEC,5
+TLX Type S,6
+TLX Type S (Performance Tire),7
+Giulia,8
+Giulia AWD,9
+Giulia Quadrifoglio,10
+Stelvio,11
+Stelvio AWD,12
+Stelvio AWD Quadrifoglio,13
+DB11 V8,14
+DB11 V12,15
+DBS V12,16
+DBX V8,17
+Vantage V8,18
+A3 Sedan 40 TFSI quattro,19
+A4 Sedan 40 TFSI quattro,20
+A4 Sedan 45 TFSI quattro,21
+A4 allroad 45 TFSI quattro,22
+A5 Cabriolet 45 TFSI quattro,23
+A5 Coupe 45 TFSI quattro,24
+A5 Sportback 45 TFSI quattro,25
+A6 Sedan 45 TFSI quattro,26
+A6 Sedan 55 TFSI quattro,27
+A6 allroad 55 TFSI quattro,28
+A7 Sportback 55 TFSI quattro,29
+A8 L Sedan 55 TFSI quattro,30
+Q3 40 TFSI quattro,31
+Q3 45 TFSI quattro,32
+Q5 40 TFSI quattro,33
+Q5 45 TFSI quattro,34
+Q5 Sportback 45 TFSI quattro,35
+Q7 45 TFSI quattro,36
+Q7 55 TFSI quattro,37
+Q8 55 TFSI quattro,38
+R8 Coupe Performance,39
+R8 Coupe Performance quattro,40
+R8 Spyder Performance,41
+R8 Spyder Performance quattro,42
+RS 5 Coupe quattro,43
+RS 5 Sportback quattro,44
+RS 6 Avant quattro,45
+RS 7 Sportback quattro,46
+RS Q8 quattro,47
+S3 Sedan quattro,48
+S4 Sedan quattro,49
+S5 Cabriolet quattro,50
+S5 Coupe quattro,51
+S5 Sportback quattro,52
+S6 Sedan quattro,53
+S7 Sportback quattro,54
+S8 Sedan quattro,55
+SQ5 quattro,56
+SQ5 Sportback quattro,57
+SQ7 quattro,58
+SQ8 quattro,59
+TT Coupe 45 TFSI quattro,60
+TT Roadster 45 TFSI quattro,61
+TT RS Coupe quattro,62
+TTS Coupe quattro,63
+Bentayga,64
+Bentayga Speed,65
+Continental GT,66
+Continental GT Speed,67
+Continental GT Convertible,68
+Continental GT Convertible Speed,69
+Flying Spur,70
+330i xDrive Sedan,71
+430i xDrive Cabriolet,72
+430i xDrive Coupe,73
+530i xDrive Sedan,74
+540i xDrive Sedan,75
+750i xDrive Sedan,76
+750Li xDrive Sedan,77
+Alpina B7,78
+Alpina B8 Gran Coupe,79
+Alpina XB7,80
+M235i xDrive Gran Coupe,81
+M240i xDrive Coupe,82
+M3 Sedan,83
+M3 Competition Sedan,84
+M3 Competition Sedan M xDrive,85
+M340i xDrive Sedan,86
+M4 Competition Cabriolet M xDrive,87
+M4 Coupe,88
+M4 Competition Coupe,89
+M4 Competition Coupe M xDrive,90
+M440i xDrive Cabriolet,91
+M440i xDrive Coupe,92
+M440i xDrive Gran Coupe,93
+M5 Sedan,94
+M5 Competition,95
+M5 CS,96
+M550i xDrive Sedan,97
+M760i xDrive Sedan,98
+M8 Cabriolet,99
+M8 Cabriolet Competition,100
+M8 Coupe,101
+M8 Coupe Competition,102
+M8 Gran Coupe,103
+M8 Gran Coupe Competition,104
+M850i xDrive Cabriolet,105
+M850i xDrive Coupe,106
+M850i xDrive Gran Coupe,107
+X1 xDrive28i,108
+X2 xDrive28i,109
+X2 M35i,110
+X3 xDrive30i,111
+X3 M,112
+X3 M Competition,113
+X3 M40i,114
+X4 xDrive30i,115
+X4 M,116
+X4 M Competition,117
+X4 M40i,118
+X5 xDrive40i,119
+X5 M,120
+X5 M Competition,121
+X5 M50i,122
+X6 xDrive40i,123
+X6 M,124
+X6 M Competition,125
+X6 M50i,126
+X7 xDrive40i,127
+X7 M50i,128
+Z4 sDrive30i,129
+Z4 M40i,130
+Chiron,131
+Chiron Pur Sport,132
+Chiron Super Sport,133
+Enclave,134
+Enclave AWD,135
+Encore,136
+Encore AWD,137
+Encore GX,138
+Encore GX AWD,139
+Envision,140
+Envision AWD,141
+CT4,142
+CT4 AWD,143
+CT4-V,144
+CT4-V AWD,145
+CT4-V Blackwing,146
+CT5,147
+CT5 AWD,148
+CT5-V,149
+CT5-V AWD,150
+CT5-V Blackwing,151
+Escalade 4WD,152
+Escalade 4WD (No Stop-Start),153
+XT4,154
+XT4 AWD,155
+XT5,156
+XT5 AWD,157
+XT6 AWD,158
+Blazer,159
+Blazer AWD,160
+Camaro,161
+Camaro SS,162
+Camaro ZL1,163
+Colorado,164
+Colorado 4WD,165
+Colorado ZR2 4WD,166
+Corvette,167
+Equinox,168
+Equinox AWD,169
+Malibu,170
+Silverado,171
+Silverado FFV,172
+Silverado 4WD,173
+Silverado 4WD Mud Terrain Tire,174
+Silverado 4WD (With Sport Mode),175
+Silverado 4WD FFV,176
+Silverado 4WD Mud Terrain Tire FFV,177
+Silverado 4WD (No DFM),178
+Silverado 4WD (No Stop-Start),179
+Silverado 4WD Mud Terrain Tire (No Stop-Start),180
+Silverado 4WD Mud Terrain Tire (No DFM),181
+Silverado 4WD Custom Trail Boss,182
+Silverado 4WD ZR2,183
+Spark,184
+Suburban,185
+Suburban (No Stop-Start),186
+Suburban 4WD,187
+Suburban 4WD (No Stop-Start),188
+Tahoe,189
+Tahoe (No Stop-Start),190
+Tahoe 4WD,191
+Tahoe 4WD (No Stop-Start),192
+Trailblazer,193
+Trailblazer AWD,194
+Traverse,195
+Traverse AWD,196
+Trax,197
+Trax AWD,198
+300,199
+300 AWD,200
+Grand Caravan,201
+Pacifica,202
+Pacifica AWD,203
+Challenger,204
+Challenger (MDS),205
+Challenger AWD,206
+Challenger Widebody (MDS),207
+Challenger Widebody,208
+Challenger SRT Hellcat,209
+Challenger SRT Hellcat Widebody,210
+Charger,211
+Charger (MDS),212
+Charger AWD,213
+Charger Widebody (MDS),214
+Charger SRT Hellcat Widebody,215
+Durango AWD,216
+Durango AWD SRT,217
+500X AWD,218
+Bronco 4WD,219
+Bronco Badlands 4WD,220
+Bronco Black Diamond 4WD,221
+Bronco Sasquatch 4WD,222
+Bronco Sport 4WD,223
+EcoSport AWD,224
+Edge AWD,225
+Escape,226
+Escape AWD,227
+Escape Hybrid,228
+Escape Hybrid AWD,229
+Expedition 4X4,230
+Expedition 4X4 (Without Stop-Start),231
+Expedition Timberline 4X4,232
+Expedition Timberline 4X4 (Without Stop-Start),233
+Explorer AWD,234
+Explorer AWD (Without Stop-Start),235
+Explorer Timberline AWD,236
+Explorer Timberline AWD (Without Stop-Start),237
+Explorer Hybrid AWD,238
+F-150,239
+F-150 (Without Stop-Start),240
+F-150 FFV,241
+F-150 FFV (Without Stop-Start),242
+F-150 4X4,243
+F-150 4X4 FFV,244
+F-150 4X4 (Without Stop-Start),245
+F-150 4X4 FFV (Without Stop-Start),246
+F-150 Raptor 4X4,247
+F-150 Raptor 4X4 (Without Stop-Start),248
+F-150 Raptor 37 4X4,249
+F-150 Raptor 37 4X4 (Without Stop-Start),250
+F-150 Tremor 4X4,251
+F-150 Tremor 4X4 (Without Stop-Start),252
+F-150 Hybrid,253
+F-150 Hybrid 4X4,254
+GT,255
+Maverick AWD,256
+Maverick Hybrid,257
+Mustang,258
+Mustang (High Performance),259
+Mustang Convertible,260
+Mustang Convertible (High Performance),261
+Mustang Mach 1,262
+Ranger 4WD,263
+Ranger 4WD (Without Stop-Start),264
+Ranger 4WD Tremor,265
+Shelby GT500 Mustang,266
+Transit Connect Van,267
+Transit Connect Van FFV,268
+Transit Connect Wagon LWB,269
+Transit Connect Wagon LWB FFV,270
+G70 AWD,271
+G80 AWD,272
+G90 AWD,273
+GV70 AWD,274
+GV80 AWD,275
+Acadia,276
+Acadia AWD,277
+Canyon,278
+Canyon 4WD,279
+Sierra,280
+Sierra FFV,281
+Sierra 4WD,282
+Sierra 4WD Mud Terrain Tire,283
+Sierra 4WD FFV,284
+Sierra 4WD Mud Terrain Tire FFV,285
+Sierra 4WD (No DFM),286
+Sierra 4WD (With Sport Mode),287
+Sierra 4WD (No Stop-Start),288
+Sierra 4WD Mud Terrain Tire (No DFM),289
+Sierra 4WD Mud Terrain Tire (No Stop-Start),290
+Terrain,291
+Terrain AWD,292
+Yukon,293
+Yukon (No Stop-Start),294
+Yukon 4WD,295
+Yukon 4WD (No Stop-Start),296
+Yukon XL,297
+Yukon XL (No Stop-Start),298
+Yukon XL 4WD,299
+Yukon XL 4WD (No Stop-Start),300
+Accord,301
+Accord Sport/Touring,302
+Accord Hybrid,303
+Accord Hybrid Sport/Touring,304
+Civic Hatchback,305
+Civic Sedan,306
+Civic Sedan Si,307
+CR-V,308
+CR-V AWD,309
+HR-V,310
+HR-V AWD,311
+Odyssey,312
+Passport AWD,313
+Pilot AWD,314
+Pilot AWD TrailSport,315
+Ridgeline AWD,316
+Elantra,317
+Elantra (ISG),318
+Elantra N,319
+Elantra Hybrid Blue,320
+IONIQ,321
+IONIQ Blue,322
+Kona,323
+Kona N,324
+Kona AWD,325
+Palisade AWD,326
+Santa Cruz AWD,327
+Santa Fe AWD,328
+Santa Fe Hybrid,329
+Sonata,330
+Sonata Hybrid,331
+Tucson,332
+Tucson AWD,333
+Tucson Hybrid,334
+Veloster N,335
+Venue,336
+Q50 AWD,337
+Q50 AWD Red Sport,338
+Q60 AWD,339
+Q60 AWD Red Sport,340
+QX50 AWD,341
+QX55 AWD,342
+QX60 AWD,343
+QX80 4WD,344
+E-PACE P250,345
+E-PACE P300,346
+F-TYPE P450 Convertible,347
+F-TYPE P450 Convertible AWD,348
+F-TYPE P450 Coupe,349
+F-TYPE P450 Coupe AWD,350
+F-TYPE R Convertible AWD,351
+F-TYPE R Coupe AWD,352
+Cherokee,353
+Cherokee 4X4 Active Drive I,354
+Cherokee 4X4 Active Drive Lock,355
+Compass,356
+Compass 4X4,357
+Gladiator 4X4 EcoDiesel,358
+Gladiator 4X4 Rubicon EcoDiesel,359
+Gladiator 4X4,360
+Grand Cherokee 4X4,361
+Grand Cherokee L 4X4,362
+Grand Cherokee WK 4X4,363
+Grand Wagoneer 4X4,364
+Renegade,365
+Renegade 4X4,366
+Renegade 4X4 Trailhawk,367
+Wagoneer 4X4,368
+Wrangler JL 4X4,369
+Wrangler JL 4X4 eTorque,370
+Wrangler JL Unlimited 4X4,371
+Wrangler JL Unlimited 4X4 EcoDiesel,372
+Wrangler JL Unlimited 4X4 Rubicon EcoDiesel,373
+Wrangler JL Unlimited 4X4 eTorque,374
+Carnival,375
+Forte,376
+Forte 5,377
+K5,378
+K5 AWD,379
+Niro,380
+Niro FE,381
+Niro Touring,382
+Rio,383
+Seltos,384
+Seltos AWD,385
+Sorento AWD,386
+Sorento Hybrid AWD,387
+Soul,388
+Sportage,389
+Sportage AWD,390
+Stinger AWD,391
+Telluride AWD,392
+Aventador Countach,393
+Aventador Coupe,394
+Aventador Roadster,395
+Huracan evo Coupe,396
+Huracan evo Coupe AWD,397
+Huracan evo Spyder,398
+Huracan evo Spyder AWD,399
+Urus,400
+Defender 90 P300,401
+Defender 90 P400,402
+Defender 90 5.0L V8,403
+Defender 110 P300,404
+Defender 110 P400,405
+Defender 110 5.0L V8,406
+Discovery P300,407
+Discovery P360,408
+Range Rover P360,409
+Range Rover P400,410
+Range Rover P525,411
+Range Rover P525 LWB,412
+Range Rover SVAutobiography,413
+Range Rover SVAutobiography LWB,414
+Range Rover Sport P360,415
+Range Rover Sport HST P400,416
+Range Rover Sport P525,417
+Range Rover Sport P575 SVR,418
+ES 250 AWD,419
+ES 300h,420
+ES 350,421
+ES 350 F SPORT,422
+GX 460,423
+IS 300,424
+IS 300 AWD,425
+IS 350 AWD,426
+IS 500,427
+LC 500,428
+LC 500 Convertible,429
+LC 500h,430
+LS 500 AWD,431
+LS 500h AWD,432
+LX 600,433
+NX 250 AWD,434
+NX 350 AWD,435
+NX 350 AWD F SPORT,436
+NX 350h AWD,437
+RC 300 AWD,438
+RC 350 AWD,439
+RC F,440
+RX 350 AWD,441
+RX 350 L AWD,442
+RX 450h AWD,443
+RX 450h L AWD,444
+UX 200,445
+UX 250h AWD,446
+Aviator AWD,447
+Corsair AWD,448
+Nautilus AWD,449
+Navigator 4X4,450
+Ghibli GT,451
+Ghibli Modena,452
+Ghibli Modena AWD,453
+Ghibli Trofeo,454
+Levante GT,455
+Levante Modena,456
+Levante Modena V8,457
+Levante Trofeo,458
+MC20,459
+Quattroporte GT,460
+Quattroporte Modena,461
+Quattroporte Modena AWD,462
+Quattroporte Trofeo,463
+CX-3,464
+CX-3 (SIL),465
+CX-3 4WD,466
+CX-30 4WD,467
+CX-30 Turbo 4WD,468
+CX-5 4WD,469
+CX-5 4WD (Cylinder Deactivation),470
+CX-5 Turbo 4WD,471
+CX-9 4WD,472
+Mazda3 4-Door,473
+Mazda3 4-Door (SIL),474
+Mazda3 4-Door 4WD,475
+Mazda3 4-Door Turbo 4WD,476
+Mazda3 5-Door,477
+Mazda3 5-Door (SIL),478
+Mazda3 5-Door 4WD,479
+Mazda3 5-Door Turbo 4WD,480
+MX-5,481
+MX-5 (SIL),482
+A 220 4MATIC Sedan,483
+A 250 4MATIC Hatch,484
+AMG A 35 4MATIC Sedan,485
+AMG A 35 4MATIC Hatch,486
+AMG C 43 4MATIC Cabriolet,487
+AMG C 43 4MATIC Coupe,488
+AMG CLA 35 4MATIC Coupe,489
+AMG CLA 45 4MATIC Coupe,490
+AMG CLS 53 4MATIC+ Coupe,491
+AMG E 53 4MATIC+ Sedan,492
+AMG E 53 4MATIC+ Cabriolet,493
+AMG E 53 4MATIC+ Coupe,494
+AMG GLA 35 4MATIC SUV,495
+AMG GLA 45 4MATIC SUV,496
+AMG GLB 35 4MATIC SUV,497
+AMG GLC 43 4MATIC SUV,498
+AMG GLC 43 4MATIC Coupe,499
+AMG GLE 53 4MATIC+ SUV,500
+AMG GLE 53 4MATIC+ Coupe,501
+AMG GT 53 4MATIC+ Coupe,502
+C 300 4MATIC Cabriolet,503
+C 300 4MATIC Coupe,504
+CLA 250 4MATIC Coupe,505
+CLS 450 4MATIC Coupe,506
+E 350 4MATIC Sedan,507
+E 450 4MATIC Sedan,508
+E 450 4MATIC Cabriolet,509
+E 450 4MATIC Coupe,510
+E 450 4MATIC All-Terrain Wagon,511
+GLA 250 4MATIC SUV,512
+GLB 250 4MATIC SUV,513
+GLC 300 4MATIC SUV,514
+GLC 300 4MATIC Coupe,515
+GLE 350 4MATIC SUV,516
+GLE 450 4MATIC SUV,517
+GLE 450 4MATIC Coupe,518
+GLS 450 4MATIC SUV,519
+Maybach S 580 4MATIC Sedan,520
+Metris Cargo Van,521
+Metris Cargo Van LWB,522
+Metris Passenger Van,523
+S 500 4MATIC SWB Sedan,524
+S 580 4MATIC LWB Sedan,525
+Cooper 3 Door,526
+Cooper 5 Door,527
+Cooper Convertible,528
+Cooper Countryman ALL4,529
+Cooper S 3 Door,530
+Cooper S 5 Door,531
+Cooper S Clubman ALL4,532
+Cooper S Convertible,533
+Cooper S Countryman ALL4,534
+John Cooper Works 3 Door,535
+John Cooper Works Clubman ALL4,536
+John Cooper Works Convertible,537
+John Cooper Works Countryman ALL4,538
+Eclipse Cross 4WD,539
+Mirage,540
+Outlander 4WD,541
+RVR,542
+RVR 4WD,543
+Altima AWD,544
+Altima AWD SR/Platinum,545
+Armada 4WD,546
+Frontier,547
+Frontier 4WD,548
+Kicks,549
+Maxima,550
+Murano AWD,551
+Pathfinder 4WD,552
+Qashqai,553
+Qashqai AWD,554
+Rogue,555
+Rogue AWD,556
+Rogue AWD SL/Platinum,557
+Sentra,558
+Sentra SR,559
+Versa,560
+718 Boxster,561
+718 Boxster T,562
+718 Boxster S,563
+718 Boxster GTS 4.0,564
+718 Cayman,565
+718 Cayman T,566
+718 Cayman S,567
+718 Cayman GT4,568
+718 Cayman GTS 4.0,569
+718 Spyder,570
+911 Carrera,571
+911 Carrera Cabriolet,572
+911 Carrera 4,573
+911 Carrera 4 Cabriolet,574
+911 Carrera S,575
+911 Carrera S Cabriolet,576
+911 Carrera 4S,577
+911 Carrera 4S Cabriolet,578
+911 Carrera GTS,579
+911 Carrera GTS Cabriolet,580
+911 Carrera 4 GTS,581
+911 Carrera 4 GTS Cabriolet,582
+911 GT3,583
+911 GT3 Touring,584
+911 Targa 4,585
+911 Targa 4S,586
+911 Targa 4 GTS,587
+911 Turbo,588
+911 Turbo Cabriolet,589
+911 Turbo S,590
+911 Turbo S Cabriolet,591
+Cayenne,592
+Cayenne Coupe,593
+Cayenne S,594
+Cayenne S Coupe,595
+Cayenne GTS,596
+Cayenne GTS Coupe,597
+Cayenne Turbo,598
+Cayenne Turbo Coupe,599
+Cayenne Turbo GT,600
+Macan,601
+Macan S,602
+Macan GTS,603
+Panamera,604
+Panamera 4,605
+Panamera 4 Executive,606
+Panamera 4 ST,607
+Panamera 4S,608
+Panamera 4S Executive,609
+Panamera 4S ST,610
+Panamera GTS,611
+Panamera GTS ST,612
+Panamera Turbo S,613
+Panamera Turbo S Executive,614
+Panamera Turbo S ST,615
+1500 EcoDiesel,616
+1500 HFE EcoDiesel,617
+1500 eTorque,618
+1500 HFE eTorque,619
+1500,620
+1500 4X4 EcoDiesel,621
+1500 4X4 eTorque,622
+1500 4X4,623
+1500 4X4 TRX,624
+1500 Classic,625
+1500 Classic 4X4,626
+ProMaster City,627
+Cullinan,628
+Cullinan Black Badge,629
+Ghost,630
+Ghost Black Badge,631
+Ghost EWB,632
+Phantom,633
+Phantom EWB,634
+Ascent AWD,635
+BRZ,636
+Crosstrek AWD,637
+Forester AWD,638
+Forester Wilderness AWD,639
+Impreza 4-Door AWD,640
+Impreza 5-Door AWD,641
+Legacy AWD,642
+Outback AWD,643
+Outback Wilderness AWD,644
+WRX AWD,645
+4Runner 4WD,646
+4Runner 4WD (Part-Time 4WD) ,647
+C-HR,648
+Camry LE/SE,649
+Camry XSE,650
+Camry XSE V6,651
+Camry TRD,652
+Camry AWD SE,653
+Camry AWD XSE,654
+Camry Hybrid LE,655
+Camry Hybrid SE/XLE/XSE,656
+Corolla,657
+Corolla XLE,658
+Corolla XSE,659
+Corolla Apex Edition,660
+Corolla Hatchback,661
+Corolla Hybrid,662
+Corolla Cross,663
+Corolla Cross AWD,664
+GR 86,665
+GR Supra 2.0,666
+GR Supra 3.0,667
+Highlander AWD,668
+Highlander Hybrid AWD,669
+Highlander Hybrid AWD Limited/Platinum,670
+Prius,671
+Prius AWD,672
+RAV4,673
+RAV4 (Stop/Start),674
+RAV4 AWD,675
+RAV4 AWD (Stop/Start),676
+RAV4 AWD LE,677
+RAV4 AWD TRD Off-Road,678
+RAV4 Hybrid AWD,679
+Sequoia 4WD,680
+Sienna,681
+Sienna AWD,682
+Tacoma 4WD,683
+Tacoma 4WD D-Cab TRD Off-Road/PRO,684
+Tundra,685
+Tundra 4WD,686
+Tundra 4WD TRD,687
+Tundra Hybrid 4WD,688
+Tundra Hybrid 4WD TRD PRO,689
+Venza AWD,690
+Atlas 4MOTION,691
+Atlas Cross Sport 4MOTION,692
+Golf GTI,693
+Golf R,694
+Jetta,695
+Jetta SE/SEL,696
+Jetta GLI,697
+Passat,698
+Taos,699
+Taos 4MOTION,700
+Tiguan 4MOTION,701
+Tiguan R-Line 4MOTION,702
+S60 B5,703
+S60 B5 AWD,704
+S90 B6 AWD,705
+V60 T6 AWD,706
+V60 CC T5 AWD,707
+V90 CC B6 AWD,708
+XC40 T4 AWD,709
+XC40 T5 AWD,710
+XC60 B5 AWD,711
+XC60 B6 AWD,712
+XC90 T5 AWD,713
+XC90 T6 AWD,714
